@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olufemi Adekanbi
-- 👀 I’m interested in AWS Cloud Solutions (IaC)
-- 🌱 I’m currently learning Linux, DevOps, Solutions Architecture, Python and JavaScript
+- 👀 I’m an AWS Certified Solutions Architect
+- 🌱 I’m also a DevOps engineer in training
 - 💞️ I’m looking to collaborate on creating scalable, reliable, and cost-effective cloud solutions
 - 📫 How to reach me Email: femiadekanbi@gmail.com
 
